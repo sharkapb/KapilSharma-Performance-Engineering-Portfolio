@@ -7,12 +7,12 @@ Performance Test Manager and Performance Engineering Lead with 15+ years of expe
 
 ## Projects
 
-### Retail Digital Transformation, Phase 2 (Energy, Australia)
+### Retail Digital Transformation, Phase 2 (Energy | Melbourne,Australia)
 Dec 2025 to Present | Performance Test Manager, via Tata Consultancy Services
 
 Phase 2 of a retail technology transformation for an Australian energy retailer, rolling out a new CRM (Salesforce) and billing platform (Kaluza) across customer journeys. I lead the performance test strategy, including NFR and SLA definition, workload models for end-to-end customer and agent transactions, and load, stress, soak, spike, and volume testing with LoadRunner and NeoLoad. Performance validation runs in Jenkins CI/CD pipelines. Root cause analysis across applications, APIs, infrastructure, and databases uses Dynatrace, AppDynamics, Splunk, AWR reports, and Grafana. I manage and mentor a team of 5 to 6 performance test engineers.
 
-### Digital Banking Performance Engineering (Banking, Australia)
+### Digital Banking Performance Engineering (Australia Bank | Sydney, Australia)
 Mar 2024 to Nov 2025 | Tech SME and Performance Test Manager, via Tata Consultancy Services
 
 Performance engineering for digital banking platforms within a major Australian bank's digital transformation. Built workload models aligned to concurrency and SLA targets and validated SLAs through capacity planning and concurrency analysis. Built JMeter and LoadRunner scripts for APIs and web applications. Integrated performance tests into Jenkins pipelines.
@@ -24,7 +24,7 @@ Outcomes:
 
 Monitoring covered Kubernetes pods, microservices, and infrastructure with New Relic, OpenSearch, and Grafana, correlating APM metrics, logs, and telemetry for proactive root cause analysis.
 
-### Wealth and Online Banking Performance Engineering (Global Investment Bank, Switzerland)
+### Wealth Management and Online Banking Performance Engineering (Global Investment Bank | Geneva, Switzerland)
 Sep 2023 to Feb 2024 | Performance Engineering Lead, via Tata Consultancy Services
 
 Performance strategy and engineering for the wealth and online banking platforms of a global investment bank. Architected the performance strategy for a high-frequency transaction system.
@@ -35,12 +35,12 @@ Outcomes:
 - Reduced high-priority defects by 45% by aligning development and test teams
 - Recognised as Best QA Team 2023 for performance and resilience gains
 
-### Online Banking API Performance (Global Investment Bank, India)
+### Online Banking (Global Investment Bank | Pune, India)
 Jan 2023 to Aug 2023 | Performance Engineering SME, via Tata Consultancy Services
 
 Analysed high-concurrency API performance across FX, SWIFT, and SEPA payment systems. Strengthened monitoring of API call failures, improving alerting and fraud mitigation. Delivered Power BI dashboards to give stakeholders clear visibility of delivery and SLA performance.
 
-### Credit Risk Technology Performance Testing (Global Investment Bank, UK)
+### Credit Risk Technology Performance Testing (Global Investment Bank | London, UK)
 Oct 2020 to Dec 2022 | Performance Test Specialist, via Tata Consultancy Services
 
 Performance testing for a credit risk management application covering rating analysis, credit analysis and approval, securitisation, collateral assessment, and communication surveillance.
@@ -50,7 +50,7 @@ Outcomes:
 - Cut incident resolution time by 30% using AWR reports and AppDynamics
 - Resolved a critical pre-release bottleneck, earning the On-the-Spot Award
 
-### Lead Performance Testing (Global Investment Bank, India)
+### Lead Performance Testing (Global Investment Bank | Gurugra, India)
 Jan 2018 to Sep 2020 | Performance Test Lead, via Tata Consultancy Services
 
 Managed performance testing across three or more platforms using LoadRunner and Postman. Led database migration testing with Control-M and Informatica.
@@ -60,7 +60,7 @@ Outcomes:
 - Reduced batch-job failures by 40%
 - Cut scripting effort by 25% with reusable scripting libraries
 
-### e-Governance Performance Testing (Government, India)
+### e-Governance MMP Project (India Government | New Delhi, India)
 Apr 2012 to Aug 2015 | Senior Test Analyst, via Velocis and e-Centric Solutions
 
 Led LoadRunner test campaigns for e-Governance systems for a national government IT agency, including an e-Office platform. Facilitated 25+ cross-ministry stakeholder workshops to baseline performance requirements.
@@ -83,7 +83,7 @@ Outcome: Reduced end-user wait times by 25%
 - **DevOps and cloud:** Jenkins, TeamCity, Harness, Git, Docker, Kubernetes, AWS, shift-left continuous testing
 - **Databases:** Oracle SQL, PostgreSQL, query tuning
 - **Methodology:** Test strategy, root cause analysis, release readiness, SAFe Agile, Agile, Scrum
-- **Leadership:** Team mentoring, stakeholder and vendor management, executive reporting
+- **Leadership:** Team mentoring, stakeholder and vendor management, executive reporting, defect Management, Agile project Management
 
 ## Certifications
 
