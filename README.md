@@ -13,7 +13,7 @@ Dec 2025 to Present | Performance Test Manager, via Tata Consultancy Services
 
 Performance assurance across five strategic workstreams of AGL Energy's Retail Transformation Phase 2: Salesforce CRM, Kaluza billing, Consumer Data Right (CDR), Enterprise Data Platform (EDP) and Digital. I translate end-to-end customer and agent journeys into measurable NFRs, workload models and SLA targets, establishing performance acceptance criteria for critical business transactions. I lead a team of 5 to 6 performance engineers across release cycles, and drive defect triage and RAID governance with vendor, development, QA automation, architecture and business teams.
 
-- Identified 20+ performance issues before production across seven critical customer journeys
+- Identified multiple performance issues before production across seven critical customer journeys
 - Design and develop 9+ end-to-end test scripts covering critical customer journeys, API integrations and business transaction flows
 - Establish performance validation across 100% of assigned feature deployments and change requests, covering load, stress and endurance testing with LoadRunner and NeoLoad
 - Conduct multi-layer root cause analysis across application, API, JVM and SQL tiers (AppDynamics, Splunk, Grafana, Oracle AWR), driving upfront tuning where SLA breaches are identified
